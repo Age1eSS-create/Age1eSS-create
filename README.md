@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/discord-white?logo=discord&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
   <a href="https://steamcommunity.com/id/Agele1/" target="_blank">
-    <img src="https://img.shields.io/badge/steam-white?logo=steam&logoColor=black&style=for-the-badge" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/steam-white?logo=steam&logoColor=blue&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
 </div>
 <h1 align="center">
