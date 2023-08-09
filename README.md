@@ -46,6 +46,14 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>
 </div>
 
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Age1eSS-create%20&theme=dark)](https://git.io/streak-stats)
+
+    
+
 
 <!--
 **Age1eSS-create/Age1eSS-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
