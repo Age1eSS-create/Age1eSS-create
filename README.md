@@ -2,11 +2,14 @@
   <img  src="https://media.giphy.com/media/KzWAhzWD3HrJyAcLEM/giphy.gif" width="450px"/>
 </div>
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
+  <a href="https://t.me/neAgeleSS">
     <img src="https://img.shields.io/badge/telegram-white?logo=telegram&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-linkedin-URL">
+  <a href="https://discordapp.com/users/627364508318302208/">
     <img src="https://img.shields.io/badge/discord-white?logo=discord&style=for-the-badge" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://steamcommunity.com/id/Agele1/">
+    <img src="https://img.shields.io/badge/steam-white?logo=steam&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
 </div>
 <h1 align="center">
