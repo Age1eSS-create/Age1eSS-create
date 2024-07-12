@@ -53,11 +53,14 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Age1eSS-create%20&theme=radical)](https://git.io/streak-stats)
-
-
-        
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Age1eSS-create&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<table cellpadding="0">
+  <tr style="padding: 0">
+    <!-- GitHub Stats Card -->  
+    <td valign="top"><img height="200" src="https://streak-stats.demolab.com?user=Age1eSS-create%20&theme=radical"/></td>
+    <!-- GitHub Top Language Card -->
+    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Age1eSS-create&langs_count=6&layout=compact&theme=radical&hide_border=true&hide=HTML&custom_title=Top%20Languages"/></td>
+  </tr>
+</table>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Age1eSS-create&theme=radical&rank=S,A)](https://github.com/ryo-ma/github-profile-trophy)
 
