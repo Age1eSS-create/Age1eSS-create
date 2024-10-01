@@ -62,7 +62,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   </tr>
 </table>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Age1eSS-create&theme=radical&rank=S,A)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Age1eSS-create&theme=radical&rank=S,A,AA,C)](https://github.com/ryo-ma/github-profile-trophy)
 
     
 
