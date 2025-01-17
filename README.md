@@ -2,7 +2,7 @@
   <img  src="https://media.giphy.com/media/KzWAhzWD3HrJyAcLEM/giphy.gif" width="450px"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://t.me/neAgeleSS" target="_blank">
+  <a href="https://t.me/snowlines" target="_blank">
     <img src="https://img.shields.io/badge/telegram-white?logo=telegram&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
   <a href="https://discordapp.com/users/627364508318302208/" target="_blank">
