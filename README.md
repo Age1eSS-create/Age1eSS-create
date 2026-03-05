@@ -3,9 +3,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://t.me/snowlines" target="_blank">
-    <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&style=for-the-badge" alt="Telegram Badge"/>
-  </a>
+  
   <a href="https://steamcommunity.com/id/Agele1/" target="_blank">
     <img src="https://img.shields.io/badge/steam-000000?logo=steam&style=for-the-badge" alt="Steam Badge"/>
   </a>
