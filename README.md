@@ -1,9 +1,9 @@
-<div id="header" align="center">
+<img width="1422" height="1645" alt="image" src="https://github.com/user-attachments/assets/321637f4-24d6-47cc-9d10-f8c7bb9c6653" /><div id="header" align="center">
   <img src="https://media.giphy.com/media/KzWAhzWD3HrJyAcLEM/giphy.gif" width="650px"/>
 </div>
 
 <div id="badges" align="center">
-  <a href="https://t.me/snowlines" target="_blank">
+  <a href="https://t.me/neAgeleSS" target="_blank">
     <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&style=for-the-badge" alt="Telegram Badge"/>
   </a>
   <a href="https://steamcommunity.com/id/Agele1/" target="_blank">
