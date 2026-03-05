@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://t.me/neAgeleSS" target="_blank">
+  <a href="https://t.me/snowlines" target="_blank">
     <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&style=for-the-badge" alt="Telegram Badge"/>
   </a>
   <a href="https://steamcommunity.com/id/Agele1/" target="_blank">
@@ -65,5 +65,6 @@ I am a passionate Frontend Developer <img src="https://media.giphy.com/media/WUl
 - 🌱 I’m exploring **game development** and enjoy working with creative projects.
 - 🎮 My hobbies include gaming and exploring tech communities.
 - ✍️ I also share frontend tips and tricks on my [Telegram channel](https://t.me/snowlines).
+- TG - @neAgeleSS
 
 Feel free to connect with me on any of the platforms above!
